@@ -1,0 +1,52 @@
+{{ define "main" }}
+  <div class="archive">
+    <header class="archive-header">
+      <h1>{{ .Title }}</h1>
+      {{ if .Content }}
+        <div class="archive-intro">
+          {{ .Content }}
+        </div>
+      {{ end }}
+    </header>
+    
+    <div class="post-list">
+      {{ range .Paginator.Pages }}
+        <article class="post-item">
+          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          {{ if .Date }}
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+          {{ end }}
+          {{ if .Summary }}
+            <p>{{ .Summary }}</p>
+          {{ end }}
+          <a href="{{ .Permalink }}" class="read-more">Read more →</a>
+        </article>
+      {{ end }}
+    </div>
+    
+    <br>
+
+    <!-- Pagination -->
+    {{ if gt .Paginator.TotalPages 1 }}
+      <nav class="pagination">
+        {{ if .Paginator.HasPrev }}
+          <a href="{{ .Paginator.Prev.URL }}" class="pagination-prev">&larr; Previous</a>
+        {{ end }}
+        
+        <div class="pagination-numbers">
+          {{ range .Paginator.Pagers }}
+            {{ if eq . $.Paginator }}
+              <span class="pagination-current">{{ .PageNumber }}</span>
+            {{ else }}
+              <a href="{{ .URL }}" class="pagination-link">{{ .PageNumber }}</a>
+            {{ end }}
+          {{ end }}
+        </div>
+        
+        {{ if .Paginator.HasNext }}
+          <a href="{{ .Paginator.Next.URL }}" class="pagination-next">Next &rarr;</a>
+        {{ end }}
+      </nav>
+    {{ end }}
+  </div>
+{{ end }}

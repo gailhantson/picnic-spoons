@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archives on Picnic Spoons</title>
+    <link>http://localhost:1313/tags/archives/</link>
+    <description>Recent content in Archives on Picnic Spoons</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/archives/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Libraries as Emotional Architecture</title>
+      <link>http://localhost:1313/commonplace/libraries-as-emotional-architecture/</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/libraries-as-emotional-architecture/</guid>
+      <description>How the catalog of books I carry with me has influenced my perspective and built scaffolding from which to hang my experiences.</description>
+    </item>
+  </channel>
+</rss>

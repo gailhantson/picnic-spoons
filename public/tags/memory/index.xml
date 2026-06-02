@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Memory on Picnic Spoons</title>
+    <link>http://localhost:1313/tags/memory/</link>
+    <description>Recent content in Memory on Picnic Spoons</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/memory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book of Centuries</title>
+      <link>http://localhost:1313/commonplace/book-of-centuries/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/book-of-centuries/</guid>
+      <description>A reflection on historical memory, timelines, and the strange experience of placing lives, events, and ideas beside one another across centuries.</description>
+    </item>
+    <item>
+      <title>Favorite Objects</title>
+      <link>http://localhost:1313/commonplace/favorite-objects/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/favorite-objects/</guid>
+      <description>A catalog of useful, beloved, ordinary objects that quietly gather meaning through everyday use.</description>
+    </item>
+    <item>
+      <title>Libraries as Emotional Architecture</title>
+      <link>http://localhost:1313/commonplace/libraries-as-emotional-architecture/</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/libraries-as-emotional-architecture/</guid>
+      <description>How the catalog of books I carry with me has influenced my perspective and built scaffolding from which to hang my experiences.</description>
+    </item>
+    <item>
+      <title>What Gets Passed Down</title>
+      <link>http://localhost:1313/commonplace/what-gets-passed-down/</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/what-gets-passed-down/</guid>
+      <description>Notes on inheritance beyond genetics: books, habits, songs, recipes, stories, educational values, emotional patterns, and ways of seeing the world.</description>
+    </item>
+  </channel>
+</rss>

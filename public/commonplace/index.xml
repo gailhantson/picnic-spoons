@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Commonplace on Picnic Spoons</title>
+    <link>http://localhost:1313/commonplace/</link>
+    <description>Recent content in Commonplace on Picnic Spoons</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/commonplace/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book of Centuries</title>
+      <link>http://localhost:1313/commonplace/book-of-centuries/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/book-of-centuries/</guid>
+      <description>A reflection on historical memory, timelines, and the strange experience of placing lives, events, and ideas beside one another across centuries.</description>
+    </item>
+    <item>
+      <title>Domestic Culture</title>
+      <link>http://localhost:1313/commonplace/domestic-culture/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/domestic-culture/</guid>
+      <description>Notes on the making of a household life. One work-from-home, stay-at-home spouse&amp;rsquo;s experience with the mundane.</description>
+    </item>
+    <item>
+      <title>Education as Atmosphere</title>
+      <link>http://localhost:1313/commonplace/education-as-atmosphere/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/education-as-atmosphere/</guid>
+      <description>On creating the type of environment necessary for the learner to thrive: the ambiance for deep thought, and the atmosphere for creativity and synthesis.</description>
+    </item>
+    <item>
+      <title>Favorite Objects</title>
+      <link>http://localhost:1313/commonplace/favorite-objects/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/favorite-objects/</guid>
+      <description>A catalog of useful, beloved, ordinary objects that quietly gather meaning through everyday use.</description>
+    </item>
+    <item>
+      <title>Field Notebooks</title>
+      <link>http://localhost:1313/commonplace/field-notebooks/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/field-notebooks/</guid>
+      <description>Thoughts on, and examples of, notes from out in the field. Collections of musings, sketches, facts, observations, and impressions.</description>
+    </item>
+    <item>
+      <title>Libraries as Emotional Architecture</title>
+      <link>http://localhost:1313/commonplace/libraries-as-emotional-architecture/</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/libraries-as-emotional-architecture/</guid>
+      <description>How the catalog of books I carry with me has influenced my perspective and built scaffolding from which to hang my experiences.</description>
+    </item>
+    <item>
+      <title>Returning to Writing Slowly</title>
+      <link>http://localhost:1313/commonplace/returning-to-writing-slowly/</link>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/returning-to-writing-slowly/</guid>
+      <description>The gradual rebuilding of a writing practice over time. How I got myself back into writing - and how I&amp;rsquo;m still doing so today.</description>
+    </item>
+    <item>
+      <title>The Slow Accumulation of Knowledge</title>
+      <link>http://localhost:1313/commonplace/the-slow-accumulation/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/the-slow-accumulation/</guid>
+      <description>Learning as a lifelong, slow, snail-slow, endeavor. Exploring what it means to build wisdom and knowledge over long, long periods of time.</description>
+    </item>
+    <item>
+      <title>Things Worth Noticing</title>
+      <link>http://localhost:1313/commonplace/things-worth-noticing/</link>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/things-worth-noticing/</guid>
+      <description>Things I find worth noticing in my daily life, with notes from the materials I use to deepen my attention and understanding.</description>
+    </item>
+    <item>
+      <title>What Gets Passed Down</title>
+      <link>http://localhost:1313/commonplace/what-gets-passed-down/</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/what-gets-passed-down/</guid>
+      <description>Notes on inheritance beyond genetics: books, habits, songs, recipes, stories, educational values, emotional patterns, and ways of seeing the world.</description>
+    </item>
+  </channel>
+</rss>

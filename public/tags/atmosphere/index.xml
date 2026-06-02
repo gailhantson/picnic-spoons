@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atmosphere on Picnic Spoons</title>
+    <link>http://localhost:1313/tags/atmosphere/</link>
+    <description>Recent content in Atmosphere on Picnic Spoons</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/atmosphere/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Domestic Culture</title>
+      <link>http://localhost:1313/commonplace/domestic-culture/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/domestic-culture/</guid>
+      <description>Notes on the making of a household life. One work-from-home, stay-at-home spouse&amp;rsquo;s experience with the mundane.</description>
+    </item>
+  </channel>
+</rss>

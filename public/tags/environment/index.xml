@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Environment on Picnic Spoons</title>
+    <link>http://localhost:1313/tags/environment/</link>
+    <description>Recent content in Environment on Picnic Spoons</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/environment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Education as Atmosphere</title>
+      <link>http://localhost:1313/commonplace/education-as-atmosphere/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/education-as-atmosphere/</guid>
+      <description>On creating the type of environment necessary for the learner to thrive: the ambiance for deep thought, and the atmosphere for creativity and synthesis.</description>
+    </item>
+  </channel>
+</rss>

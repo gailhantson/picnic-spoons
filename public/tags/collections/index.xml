@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collections on Picnic Spoons</title>
+    <link>http://localhost:1313/tags/collections/</link>
+    <description>Recent content in Collections on Picnic Spoons</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/collections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Favorite Objects</title>
+      <link>http://localhost:1313/commonplace/favorite-objects/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/favorite-objects/</guid>
+      <description>A catalog of useful, beloved, ordinary objects that quietly gather meaning through everyday use.</description>
+    </item>
+  </channel>
+</rss>

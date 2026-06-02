@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Historical-Thinking on Picnic Spoons</title>
+    <link>http://localhost:1313/tags/historical-thinking/</link>
+    <description>Recent content in Historical-Thinking on Picnic Spoons</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/historical-thinking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book of Centuries</title>
+      <link>http://localhost:1313/commonplace/book-of-centuries/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/book-of-centuries/</guid>
+      <description>A reflection on historical memory, timelines, and the strange experience of placing lives, events, and ideas beside one another across centuries.</description>
+    </item>
+  </channel>
+</rss>

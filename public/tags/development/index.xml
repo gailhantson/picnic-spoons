@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Picnic Spoons</title>
+    <link>http://localhost:1313/tags/development/</link>
+    <description>Recent content in Development on Picnic Spoons</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Education as Atmosphere</title>
+      <link>http://localhost:1313/commonplace/education-as-atmosphere/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/education-as-atmosphere/</guid>
+      <description>On creating the type of environment necessary for the learner to thrive: the ambiance for deep thought, and the atmosphere for creativity and synthesis.</description>
+    </item>
+    <item>
+      <title>The Slow Accumulation of Knowledge</title>
+      <link>http://localhost:1313/commonplace/the-slow-accumulation/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/the-slow-accumulation/</guid>
+      <description>Learning as a lifelong, slow, snail-slow, endeavor. Exploring what it means to build wisdom and knowledge over long, long periods of time.</description>
+    </item>
+  </channel>
+</rss>

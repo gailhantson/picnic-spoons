@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Observation on Picnic Spoons</title>
+    <link>http://localhost:1313/tags/observation/</link>
+    <description>Recent content in Observation on Picnic Spoons</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/observation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Field Notebooks</title>
+      <link>http://localhost:1313/commonplace/field-notebooks/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/field-notebooks/</guid>
+      <description>Thoughts on, and examples of, notes from out in the field. Collections of musings, sketches, facts, observations, and impressions.</description>
+    </item>
+    <item>
+      <title>Things Worth Noticing</title>
+      <link>http://localhost:1313/commonplace/things-worth-noticing/</link>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/things-worth-noticing/</guid>
+      <description>Things I find worth noticing in my daily life, with notes from the materials I use to deepen my attention and understanding.</description>
+    </item>
+  </channel>
+</rss>

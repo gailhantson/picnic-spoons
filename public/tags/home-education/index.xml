@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home-Education on Picnic Spoons</title>
+    <link>http://localhost:1313/tags/home-education/</link>
+    <description>Recent content in Home-Education on Picnic Spoons</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/home-education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home Education by Charlotte Mason</title>
+      <link>http://localhost:1313/library/home-education/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/library/home-education/</guid>
+      <description>Notes on Charlotte Mason&amp;rsquo;s philosophy of education, including living books, narration, atmosphere, habit formation, and the cultivation of a rich intellectual life.</description>
+    </item>
+  </channel>
+</rss>

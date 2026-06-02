@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Commonplace on Picnic Spoons</title>
+    <link>http://localhost:1313/tags/commonplace/</link>
+    <description>Recent content in Commonplace on Picnic Spoons</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/commonplace/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book of Centuries</title>
+      <link>http://localhost:1313/commonplace/book-of-centuries/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/book-of-centuries/</guid>
+      <description>A reflection on historical memory, timelines, and the strange experience of placing lives, events, and ideas beside one another across centuries.</description>
+    </item>
+    <item>
+      <title>Field Notebooks</title>
+      <link>http://localhost:1313/commonplace/field-notebooks/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commonplace/field-notebooks/</guid>
+      <description>Thoughts on, and examples of, notes from out in the field. Collections of musings, sketches, facts, observations, and impressions.</description>
+    </item>
+  </channel>
+</rss>

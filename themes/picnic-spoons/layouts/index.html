@@ -1,0 +1,48 @@
+{{ define "main" }}
+  <section class="hero">
+    <h1>Field Notes for a Future Family</h1>
+    <p>Picnic Spoons is a commonplace book about learning, household culture, and the lived practice of preparing a life that can be shared.</p>
+    <img src="/images/farmhouse.jpg" alt="Van Gogh's painting of a farmhouse">
+  </section>
+
+  <section>
+    <h2>Welcome to Picnic Spoons</h2>
+    <br>
+    <p>Welcome to Picnic Spoons, a space for sharing and exploring the art of living well.</p>
+    <br>
+    <p>My family is still small, composed of me and my spouse. I dream every day about our future little, and the ways we can nurture their growth and creativity. Picnic Spoons is a space to explore these ideas, and to share the insights and discoveries that emerge along the way.</p>
+    <br>
+    <p>I started Picnic Spoons as a way to document my own journey of learning and growth, and to create a resource for others who are on a similar path.</p>
+    <br>
+    <p>I write about a philosophy of education and the ways it can be applied to family life. I write about a rich, beautiful, secular life and the ways we can cultivate it in our homes and communities. I write about the vast expanse of knowledge and the importance of nurturing a love of learning in ourselves and our children.</p>
+    <br>
+    <p>Above all, I write about the process of building a future worth living in.</p>
+    <br>
+    <p>There are few things as important as looking to the future and creating a supportive environment for ourselves, our communities, and those we love.<p>
+    <p class="signature">
+    Sincerely, Gail
+    </p>
+    <br>
+    <img src="/images/poppies.jpg" alt="Poppies in a Vase by Claude Monet">
+  </section>
+
+  {{ $commonplace := where .Site.RegularPages "Type" "commonplace" | first 4 }}
+  {{ $library := where .Site.RegularPages "Type" "library" | first 4 }}
+  {{ $themes := where .Site.RegularPages "Type" "themes" | first 4 }}
+
+  <section class="section-preview">
+    <h2>Latest</h2>
+    <div class="section-grid">
+      {{ range $commonplace }}
+        <article class="section-card">
+          <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+          <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+          <p>{{ .Summary }}</p>
+        </article>
+      {{ end }}
+    </div>
+  </section>
+
+
+  </section>
+{{ end }}

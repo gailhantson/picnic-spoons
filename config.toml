@@ -1,0 +1,12 @@
+baseURL = "https://picnicspoons.com/"  # Replace with your actual domain
+languageCode = "en-us"
+title = "Picnic Spoons"
+theme = "picnic-spoons"
+paginate = 5
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[params]
+  author = "Galeon"
+
