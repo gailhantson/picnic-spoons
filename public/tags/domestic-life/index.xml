@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/commonplace/domestic-culture/</guid>
       <description>Notes on the making of a household life. One work-from-home, stay-at-home spouse&amp;rsquo;s experience with the mundane.</description>
     </item>
+    <item>
+      <title>The Little House Series by Laura Ingalls Wilder</title>
+      <link>http://localhost:1313/library/little-house/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/library/little-house/</guid>
+      <description>Notes on The Little House books, their vision of family life, work, self-reliance, childhood, and the rhythms of a household shaped by the seasons.</description>
+    </item>
   </channel>
 </rss>
